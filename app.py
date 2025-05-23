@@ -31,7 +31,6 @@ def add_task():
     priority = request.form.get('priority', 'Normal')
     created_at = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     
-    # 👉 Вот здесь выбираем, какой класс использовать:
     if priority == 'Urgent':
         task = UrgentTask(title=title, created_at=created_at, deadline=deadline, description=description)
     else:
