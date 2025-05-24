@@ -21,7 +21,7 @@ A web app for managing daily tasks. Built with **Python Flask**, **MongoDB**, an
 <img width="1438" alt="Image" src="https://github.com/user-attachments/assets/fbed7608-08c5-4658-b40e-fdbaf543f39f" />
 
 
-## Instruction how to get the app on your local machine:
+## How to get the app on your local machine:
 
 ### 1. Clone the repo
 
