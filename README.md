@@ -1,6 +1,6 @@
 # Task Manager — Flask + MongoDB
 
-A web app for managing daily tasks. Built with **Python Flask**, **MongoDB**, and styled using **Bootstrap + custom CSS**.
+A web app for managing daily tasks. Built with **Python Flask**, **MongoDB**, and styled using **Bootstrap + CSS**.
 
 ## Features
 
