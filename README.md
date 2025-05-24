@@ -25,6 +25,10 @@ A web app for managing daily tasks. Built with **Python Flask**, **MongoDB**, an
 
 ### 1. Clone the repo
 
+```bash
+git clone https://github.com/AngelinaNalivko/Task-manager.git
+```
+
 ### 2. Create virtual environment
 
 ```bash
